@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715680539 source:c:\users\240687051\documents\bitfields\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+

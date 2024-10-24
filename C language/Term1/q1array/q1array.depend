@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711638605 source:c:\users\aj864\documents\software design\q1array\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716321200 source:c:\users\aj864\onedrive\documents\software design\term2\240687051,prac4\filehandling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<errno.h>
+

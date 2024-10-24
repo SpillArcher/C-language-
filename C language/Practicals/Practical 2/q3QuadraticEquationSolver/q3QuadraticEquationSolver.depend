@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711645916 source:c:\users\aj864\documents\software design\q3quadraticequationsolver\main.c
+	<stdio.h>
+	<math.h>
+

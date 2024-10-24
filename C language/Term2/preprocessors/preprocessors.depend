@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716285849 source:c:\users\240687051\documents\preprocessors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1716285850 source:c:\users\aj864\onedrive\documents\software design\term2\preprocessors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
